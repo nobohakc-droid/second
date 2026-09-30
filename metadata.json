@@ -1,0 +1,6 @@
+{
+  "name": "Neon Strike - Top-Down Canvas Shooter",
+  "description": "High-octane arcade top-down 2D canvas shooter with fluid controls, dynamic enemy waves, visual particle effects, and retro synthesizer audio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
